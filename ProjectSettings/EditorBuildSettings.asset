@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Vuforia-ImageTarget.unity
+  - enabled: 0
+    path: Assets/Test(Radian !)/TestEMT.unity
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+  - enabled: 0
+    path: Assets/Scenes/test.unity
+  - enabled: 0
+    path: Assets/Scenes/Main_EndMovie (Radian !).unity
+  - enabled: 0
+    path: Assets/Scenes/Vtest.unity
+  - enabled: 0
+    path: Assets/Scenes/Main_3.29.unity
+  - enabled: 0
+    path: Assets/Scenes/Radian3.24_testllPage.unity
+  - enabled: 0
+    path: Assets/Scenes/unitestBeconLightBall.unity
+  - enabled: 0
+    path: Assets/Scenes/Scenes/ibeaconreceiverexample.unity
+  - enabled: 0
+    path: Assets/Scenes/unitestTask4.unity
+  - enabled: 0
+    path: Assets/Scenes/Main_3.29.1.unity
+  - enabled: 0
+    path: Assets/Scenes/4.7test/testEMT.unity
+  - enabled: 1
+    path: Assets/Scenes/Main_4.7.unity
+  - enabled: 0
+    path: Assets/Scenes/Main_4.7forIphone.unity
+  - enabled: 0
+    path: Assets/Scenes/Main_4.8.unity
